@@ -15,6 +15,11 @@
     "ios": "react-native-scripts ios",
     "test": "jest"
   },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
   "jest": {
     "preset": "jest-expo"
   },
